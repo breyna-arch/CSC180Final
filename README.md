@@ -48,6 +48,9 @@ python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 # ensure OPENAI_API_KEY is set if you want to use /api/respond
+# you can set up your .env file like:
+# OPENAI_API_KEY=YOUR_OPENAI_API_KEY
+# FLOWCHART_AGENT_MODEL_SPEC=YOUR_GOOGLE_DOCS_API_KEY
 export OPENAI_API_KEY="your_key_here"
 python backend_server.py
 ```
@@ -61,3 +64,6 @@ npm run dev
 ```
 
 Then open the Vite dev URL (usually http://localhost:5173). The "Ping Backend" button in the UI will call `http://localhost:5000/api/ping`.
+
+
+![Architecture Diagram](./CSC180_Final.png)
