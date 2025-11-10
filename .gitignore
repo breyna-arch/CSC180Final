@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.pyc 
+
+# Virtual environments
+venv/
+.venv/
+.env/
+env/
+
+# Googel API credentials
+token.json
+credentials.json
+
+# System files
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp 
+
+# IDE and editor configs
+.vscode/
+.idea/
+
+# Node modules
+node_modules/
+
+# Environment Vairiables
+.env
