@@ -68,4 +68,8 @@ Then open the Vite dev URL (usually http://localhost:5173). The "Ping Backend" b
 
 ![Architecture Diagram](./CSC180_Final.png)
 
-https://github.com/user-attachments/assets/09001157-2f0a-4399-a3c9-8819b66e2865
+
+
+https://github.com/user-attachments/assets/5ccfcf97-eabf-43d9-8e07-cc43af3894c9
+
+
