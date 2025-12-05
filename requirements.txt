@@ -8,3 +8,5 @@ google-auth-httplib2
 google-api-python-client
 openai
 openai-agents
+flask[async]
+flask-cors
