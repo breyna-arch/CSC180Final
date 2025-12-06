@@ -10,3 +10,5 @@ openai
 openai-agents
 flask[async]
 flask-cors
+gunicorn
+uvicorn
